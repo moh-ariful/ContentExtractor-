@@ -9,5 +9,5 @@ Lalu jalankan perintah -> pip install -r requirements.txt<br>
 Apabila di Linux -> pip3 install -r requirements.txt<br>
 Setelah selesai menginstall library dari requirements.txt,<br>
 
-disusul dengan perintah di terminal-> python ontentExtractor.py <br>
-atau python3 scrapertool.py di Linux.<br>
+disusul dengan perintah di terminal-> python ContentExtractor.py <br>
+atau python3 ContentExtractor.py di Linux.<br>
